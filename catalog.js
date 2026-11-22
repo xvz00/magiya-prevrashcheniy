@@ -21,6 +21,6 @@ window.KITS = [
     category: "Еда и десерты",
     emoji: "🍜",
     steps: ["instructions/001_лапшичная.png"],
-    videoEmbed: "https://studio.rutube.ru/play/embed/09a2b0134bd8b6e47d029d71ac816653/?p=53OGTNbG6UEDUFVNwR_6lA"
+    videoEmbed: "https://rutube.ru/play/embed/09a2b0134bd8b6e47d029d71ac816653/?p=53OGTNbG6UEDUFVNwR_6lA"
   }
 ];
