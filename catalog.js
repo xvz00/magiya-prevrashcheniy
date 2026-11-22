@@ -16,5 +16,7 @@ window.KITS = [
   { id: "charodeyka-15-kolb-domik", name: "Чародейка 15 колб + домик", category: "Волшебство", emoji: "🏠", steps: [] },
   { id: "skvish-seryy-kot", name: "Сквиш Серый кот", category: "Другие наборы", emoji: "🐈", steps: [] },
   { id: "okeanarium", name: "Океанариум", category: "Другие наборы", emoji: "🐠", steps: [] },
-  { id: "piknik", name: "Пикник", category: "Другие наборы", emoji: "🧺", steps: [] }
+  { id: "piknik", name: "Пикник", category: "Другие наборы", emoji: "🧺", steps: [] },
+  { id: "moya-lapshichnaya", name: "Моя лапшичная", category: "Еда и десерты", emoji: "🍜", steps: ["instructions/001_лапшичная.png"] }
+
 ];
