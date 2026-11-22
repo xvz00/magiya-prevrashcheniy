@@ -1,6 +1,4 @@
-// Каталог наборов. Для добавления инструкции укажите пути к картинкам в steps.
-// Пример: steps: ["images/mini-eda/01.jpg", "images/mini-eda/02.jpg"]
-// Файлы должны быть загружены в репозиторий GitHub по указанным путям.
+
 window.KITS = [
   { id: "mini-eda", name: "Мини еда", category: "Еда и десерты", emoji: "🍜", steps: [] },
   { id: "yunyy-konditer-32", name: "Юный кондитер 32", category: "Еда и десерты", emoji: "🧁", steps: [] },
@@ -17,6 +15,12 @@ window.KITS = [
   { id: "skvish-seryy-kot", name: "Сквиш Серый кот", category: "Другие наборы", emoji: "🐈", steps: [] },
   { id: "okeanarium", name: "Океанариум", category: "Другие наборы", emoji: "🐠", steps: [] },
   { id: "piknik", name: "Пикник", category: "Другие наборы", emoji: "🧺", steps: [] },
-  { id: "moya-lapshichnaya", name: "Моя лапшичная", category: "Еда и десерты", emoji: "🍜", steps: ["instructions/001_лапшичная.png"] }
-
+  {
+    id: "moya-lapshichnaya",
+    name: "Моя лапшичная",
+    category: "Еда и десерты",
+    emoji: "🍜",
+    steps: ["instructions/001_лапшичная.png"],
+    videoEmbed: "https://studio.rutube.ru/play/embed/09a2b0134bd8b6e47d029d71ac816653/?p=53OGTNbG6UEDUFVNwR_6lA"
+  }
 ];
